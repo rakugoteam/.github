@@ -27,6 +27,8 @@ Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), fr
 
 [![Join the Discord channel](https://img.shields.io/discord/484604562183815169?label=My%20Discord%20Server&style=for-the-badge)][discord]
 [![My YouTube (PL)](https://img.shields.io/youtube/channel/subscribers/UCMGyApWbhZCBnsEn2SI4ovA?label=My%20YouTube%20Channel%20%28pl%29&style=for-the-badge)][youtube-pl]
+<!-- [![My YouTube (ENG)](https://img.shields.io/youtube/channel/subscribers/UCuItFHsERbsyi8gLJ7Ti1KA?label=Our%20YouTube%20Channel%20&style=for-the-badge)][youtube-eng] -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/BiernackiJeremi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Jeremi360&screen_name=Jeremi360)
 
 <!-- [![My YouTube (ENG)](https://img.shields.io/youtube/channel/subscribers/UCuItFHsERbsyi8gLJ7Ti1KA?label=Our%20YouTube%20Channel%20&style=for-the-badge)][youtube-eng] -->
 
@@ -46,8 +48,11 @@ Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), fr
 [![](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com)
 ![](https://img.icons8.com/fluency/50/000000/github.png)
 
-[![](https://github-readme-stats.vercel.app/api?username=RakugoTeam)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakugoTeam)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [Ren'Py]: https://www.renpy.org
 [Godot]: https://godotengine.org
+[discord]: https://discord.gg/5HUagR56nB
+[twitter]: https://twitter.com/BiernackiJeremi
+[youtube-pl]: https://www.youtube.com/channel/UCMGyApWbhZCBnsEn2SI4ovA
+[youtube-eng]: https://www.youtube.com/channel/UCuItFHsERbsyi8gLJ7Ti1KA
