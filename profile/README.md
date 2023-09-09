@@ -17,7 +17,7 @@ Features included in any Kit:
 - Save/Load system
 - Option system
 - UI template for your project
-- ...[and much, much more](/features/).
+- ...[and much, much more](https://rakugoteam.github.io/features/).
 
 <!-- 
 Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), free!
