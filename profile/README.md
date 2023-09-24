@@ -34,16 +34,16 @@ Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), fr
 ### Languages and Tools:
 
 [<img src="https://myst-parser.readthedocs.io/en/latest/_images/logo-square.svg" width="48"/>](https://myst-parser.readthedocs.io)
-[![](https://img.icons8.com/color/48/000000/python--v1.png")](https://www.python.org)
-[![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jekyll-a-simple-blog-aware-static-site-generator-for-personal-project-logo-shadow-tal-revivo.png)](https://jekyllrb.com/)
-[![](https://img.icons8.com/color/48/000000/ruby-programming-language.png)](https://www.ruby-lang.org)
-[<img src="https://github.com/imjp94/gd-plug/raw/master/icon.png" width="38"/>](https://github.com/imjp94/gd-plug)
-[<img src="https://godotengine.org/assets/logo_dark.svg" width="126"/>](https://godotengine.org)
-[![](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](https://code.visualstudio.com)
-[<img src="https://www.gnome.org/wp-content/uploads/2020/08/cropped-logo.png" width="120"/>](https://www.gnome.org)
-[![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png)](https://garudalinux.org)
-[![](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com)
-![](https://img.icons8.com/fluency/50/000000/github.png)
+[<img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48"/>](https://www.python.org)
+[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jekyll-a-simple-blog-aware-static-site-generator-for-personal-project-logo-shadow-tal-revivo.png" width="48"/>](https://jekyllrb.com/)
+[<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="48"/>](https://www.ruby-lang.org)
+[<img src="https://github.com/imjp94/gd-plug/raw/master/icon.png" width="48"/>](https://github.com/imjp94/gd-plug)
+[<img src="https://godotengine.org/assets/logo_dark.svg" width="120"/>](https://godotengine.org)
+
+[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48"/>](https://code.visualstudio.com)
+[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png" width="48"/>](https://garudalinux.org)
+[<img src="https://img.icons8.com/color/48/000000/git.png" width="48"/>](https://git-scm.com)
+[<img src="https://img.icons8.com/fluency/50/000000/github.png" width="48"/>]()
 
 
 
