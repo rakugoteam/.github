@@ -9,10 +9,9 @@ Simplify your project, if it is a visual novel, point and click, RPG, interactiv
 Now its a set of plugins for Godot, that can be used in any Godot project.
 But they are also Kits that bring together of our plugins to template that fit your project genre.
 
-Unlock the potential of [Godot] 3.4+ and Godot 4 with Rakugo!
+Unlock the potential of Godot 4 with Rakugo!
 
 Features included in any Kit:
-
 - Dialogue system with rollback and forward
 - Save/Load system
 - Option system
@@ -37,7 +36,6 @@ Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), fr
 [<img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48"/>](https://www.python.org)
 [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jekyll-a-simple-blog-aware-static-site-generator-for-personal-project-logo-shadow-tal-revivo.png" width="48"/>](https://jekyllrb.com/)
 [<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="48"/>](https://www.ruby-lang.org)
-[<img src="https://github.com/imjp94/gd-plug/raw/master/icon.png" width="48"/>](https://github.com/imjp94/gd-plug)
 [<img src="https://godotengine.org/assets/logo_dark.svg" width="120"/>](https://godotengine.org)
 
 [<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48"/>](https://code.visualstudio.com)
