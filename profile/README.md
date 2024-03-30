@@ -5,9 +5,10 @@
 # Rakugo Project
 
 Inspired by [Ren'Py], Rakugo Project is aimed at providing a better toolset for narrative-based games on [Godot].
+
 Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
-Now its a set of plugins for Godot, that can be used in any Godot project.
-But they are also Kits that bring together of our plugins to template that fit your project genre.
+Its a set of plugins for Godot, that can be used in any Godot project.
+There are also Kits that bring together of our plugins to template that fit your project genre.
 
 Unlock the potential of Godot 4 with Rakugo!
 
