@@ -13,7 +13,7 @@ There are also Kits that bring together of our plugins to template that fit your
 Unlock the potential of Godot 4 with Rakugo!
 
 Features included in any Kit:
-- Dialogue system with rollback and forward
+- Dialogue system
 - Save/Load system
 - Option system
 - UI template for your project
