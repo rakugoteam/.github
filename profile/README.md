@@ -26,7 +26,11 @@ Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), fr
 
 [![Join the Discord channel](https://img.shields.io/discord/484604562183815169?label=My%20Discord%20Server&style=for-the-badge)][discord]
 [![My YouTube (PL)](https://img.shields.io/youtube/channel/subscribers/UCMGyApWbhZCBnsEn2SI4ovA?label=My%20YouTube%20Channel%20%28pl%29&style=for-the-badge)][youtube-pl]
-[![Twitter Follow](https://img.shields.io/twitter/follow/BiernackiJeremi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Jeremi360&screen_name=Jeremi360)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BiernackiJeremi?style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109488615257745295?domain=https%3A%2F%2Fsocial.vivaldi.net%2F)
+![BlueSky Follow](https://img.shields.io/badge/Jeremi360-bsky?style=for-the-badge&color=blue&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fjeremidev.bsky.social)
+![Threads Follow](https://img.shields.io/badge/Jeremi360-therads?style=for-the-badge&color=black&link=https%3A%2F%2Fwww.threads.net%2F%40jeremibiernacki)
+
 
 <!-- [![My YouTube (ENG)](https://img.shields.io/youtube/channel/subscribers/UCuItFHsERbsyi8gLJ7Ti1KA?label=Our%20YouTube%20Channel%20&style=for-the-badge)][youtube-eng] -->
 
