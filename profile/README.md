@@ -25,12 +25,12 @@ Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), fr
 ### Connect with me/us:
 
 [![Join the Discord channel](https://img.shields.io/discord/484604562183815169?label=My%20Discord%20Server&style=for-the-badge)][discord]
-[![My YouTube (PL)](https://img.shields.io/youtube/channel/subscribers/UCMGyApWbhZCBnsEn2SI4ovA?label=My%20YouTube%20Channel%20%28pl%29&style=for-the-badge)][youtube-pl]
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BiernackiJeremi?style=social)[twitter]
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109488615257745295?domain=https%3A%2F%2Fsocial.vivaldi.net%2F)[
-![BlueSky Follow](https://img.shields.io/badge/Jeremi360-bsky?style=for-the-badge&color=blue&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fjeremidev.bsky.social)[bluesky]
-![Threads Follow](https://img.shields.io/badge/Jeremi360-therads?style=for-the-badge&color=black&link=https%3A%2F%2Fwww.threads.net%2F%40jeremibiernacki)[threads]
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BiernackiJeremi?style=social)][twitter]
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109488615257745295?domain=https%3A%2F%2Fsocial.vivaldi.net%2F)][mastodon]
+[![BlueSky Follow](https://img.shields.io/badge/Jeremi360-bsky?style=for-the-badge&color=blue&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fjeremidev.bsky.social)][bluesky]
+[![Threads Follow](https://img.shields.io/badge/Jeremi360-therads?style=for-the-badge&color=black&link=https%3A%2F%2Fwww.threads.net%2F%40jeremibiernacki)][threads]
 
+<!-- [![My YouTube (PL)](https://img.shields.io/youtube/channel/subscribers/UCMGyApWbhZCBnsEn2SI4ovA?label=My%20YouTube%20Channel%20%28pl%29&style=for-the-badge)][youtube-pl] -->
 
 <!-- [![My YouTube (ENG)](https://img.shields.io/youtube/channel/subscribers/UCuItFHsERbsyi8gLJ7Ti1KA?label=Our%20YouTube%20Channel%20&style=for-the-badge)][youtube-eng] -->
 
@@ -53,6 +53,7 @@ Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), fr
 [Godot]: https://godotengine.org
 [discord]: https://discord.gg/5HUagR56nB
 [twitter]: https://twitter.com/BiernackiJeremi
+[mastodon]: https://social.vivaldi.net/@jeremi360
 [bluesky]: https://bsky.app/profile/jeremidev.bsky.social
 [threads]: https://www.threads.com/@jeremibiernacki
 [youtube-pl]: https://www.youtube.com/channel/UCMGyApWbhZCBnsEn2SI4ovA
